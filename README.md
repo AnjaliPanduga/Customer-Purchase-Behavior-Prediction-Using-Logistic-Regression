@@ -61,9 +61,7 @@ Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression/
 ✔ Download prediction results
 
 ## ▶️ How to Run Locally
-
-### 1. Clone the Repo
-```sh
+1. Clone the Repo
 git clone https://github.com/AnjaliPanduga/Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression.git
 cd Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression
 2. Install Dependencies
