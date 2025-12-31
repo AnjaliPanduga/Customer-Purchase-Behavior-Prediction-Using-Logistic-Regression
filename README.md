@@ -67,11 +67,8 @@ Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression/
 git clone https://github.com/AnjaliPanduga/Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression.git
 cd Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression
 2. Install Dependencies
-sh
-
 pip install -r requirements.txt
 3. Run with Streamlit
-sh
 streamlit run app.py
 📄 Dataset Format
 Training Dataset
