@@ -17,7 +17,7 @@ Users can:
 ---
 
 ## 📂 Project Files
-
+```
 Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression/
 │
 ├── app.py # Streamlit Application Code
@@ -26,6 +26,7 @@ Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression/
 │ └── logit classification.csv# Sample Dataset
 ├── requirements.txt # Dependencies
 └── README.md # Project Documentation
+```
 
 ## 🛠 Tech Stack
 
