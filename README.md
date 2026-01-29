@@ -20,13 +20,17 @@ Users can:
 ```
 Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression/
 │
-├── app.py # Streamlit Application Code
+├── app.py                       # Streamlit Application Code
 ├── datasets/
-│ ├── final1.csv # Training Dataset
-│ └── logit classification.csv# Sample Dataset
-├── requirements.txt # Dependencies
-└── README.md # Project Documentation
+│   ├── final1.csv               # Training Dataset
+│   └── logit classification.csv # Sample Dataset
+├── outputs/
+│   └── final1_predicted.csv     # Model Prediction Output
+├── requirements.txt             # Dependencies
+└── README.md                    # Project Documentation
 ```
+
+---
 
 ## 🛠 Tech Stack
 
@@ -51,6 +55,8 @@ Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression/
 6. Model evaluation and performance are shown.
 7. Predictions on new data.
 
+---
+
 ## 📈 Key Features
 
 ✔ Upload training dataset  
@@ -61,20 +67,24 @@ Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression/
 ✔ Predict on new dataset  
 ✔ Download prediction results
 
+---
+
 ## ▶️ How to Run Locally
-1. Clone the Repo
+### 1. Clone the Repo
 ```
 git clone https://github.com/AnjaliPanduga/Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression.git
 cd Customer-Purchase-Behavior-Prediction-Using-Logistic-Regression
 ```
-2. Install Dependencies
+### 2. Install Dependencies
 ```
 pip install -r requirements.txt
 ```
-3. Run with Streamlit
+### 3. Run with Streamlit
 ```
 streamlit run app.py
 ```
+---
+
 📄 Dataset Format
 Training Dataset
 Column	Description
@@ -86,7 +96,14 @@ Purchased	Target: 0 = Not Purchased, 1 = Purchased
 ✔ Supported file types: CSV only
 ✔ Make sure Age & Salary columns are present
 
+---
+
 👩‍💻 Author
+
 Anjali Panduga
+
 📧 Email: pandugaanjali2003@gmail.com
+
 🔗 GitHub: https://github.com/AnjaliPanduga
+
+---
