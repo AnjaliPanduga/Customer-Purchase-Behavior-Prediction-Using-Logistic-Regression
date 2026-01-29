@@ -92,8 +92,12 @@ Age	Customer Age
 Estimated Salary	Customer Salary
 Purchased	Target: 0 = Not Purchased, 1 = Purchased
 
+---
+
 📌 Notes
+
 ✔ Supported file types: CSV only
+
 ✔ Make sure Age & Salary columns are present
 
 ---
